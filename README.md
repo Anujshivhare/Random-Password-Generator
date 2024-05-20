@@ -7,7 +7,6 @@ Random Password Generator is a simple website built using React that generates r
 ## Features
 
 - **Generate Random Passwords:** Click a button to generate a random password with customizable options.
-- **Customizable Options:** Choose the length and complexity of the generated password.
 - **User-Friendly Interface:** Intuitive design for easy password generation.
 
 ## Technologies Used
